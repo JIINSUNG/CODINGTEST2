@@ -33,11 +33,11 @@ function solution(video_len, pos, op_start, op_end, commands) {
         return current
         
     }
-
+    
+    now = checkBoundary(now, video_time, op_start_time, op_end_time)
     
     for (const command of commands){
         
-        now = checkBoundary(now, video_time, op_start_time, op_end_time)
         
         
         if(command === "next"){
