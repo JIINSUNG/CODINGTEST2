@@ -1,10 +1,10 @@
 # [level 0] 마지막 두 원소 - 181927 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181927?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.05 ms
+메모리: 9.24 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 09일 11:08:16
+2025년 10월 09일 11:08:59
 
 ### 문제 설명
 
