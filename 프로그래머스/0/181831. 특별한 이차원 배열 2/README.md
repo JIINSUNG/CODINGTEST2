@@ -1,10 +1,10 @@
 # [level 0] 특별한 이차원 배열 2 - 181831 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181831?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.7 MB, 시간: 0.67 ms
+메모리: 9.42 MB, 시간: 0.85 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 12일 08:25:19
+2025년 10월 12일 08:26:02
 
 ### 문제 설명
 
