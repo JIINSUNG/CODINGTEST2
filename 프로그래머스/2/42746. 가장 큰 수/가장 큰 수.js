@@ -7,9 +7,11 @@ function solution(numbers) {
         return strBA - strAB
     })
     
-    if(numbers.length === 0 || numbers[0] === 0){
+    // 가장 큰 수가 0으로 시작하는 경우
+    if(numbers[0] === 0){
         return "0"
     }
     
     return numbers.join('');
 }
+
