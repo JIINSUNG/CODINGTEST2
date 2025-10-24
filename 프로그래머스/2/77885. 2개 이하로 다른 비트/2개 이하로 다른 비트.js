@@ -6,6 +6,7 @@ function solution(numbers) {
             answer.push(num+1)
             continue
         }
+        
         const n = BigInt(num);
         
         const leastZero = (~n) & (n + 1n); 
