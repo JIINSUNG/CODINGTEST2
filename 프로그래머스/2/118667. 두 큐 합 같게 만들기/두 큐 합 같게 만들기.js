@@ -1,7 +1,7 @@
 function solution(queue1, queue2) {
     var answer = 0;
     
-    const extendedArr = [...queue1, ...queue2, ...queue1]
+    const extendedArr = [...queue1, ...queue2]
     
     
     let i =0
